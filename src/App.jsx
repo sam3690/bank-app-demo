@@ -29,7 +29,6 @@ const App = () => (
         <Stats />
         <Footer />
         <Testimonials />
-        <Hero />
       </div>
     </div>
   </div>
