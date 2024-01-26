@@ -11,8 +11,8 @@ const CardDeal = () => (
           </p>
           <Button styles={`mt-10`}/>
         </div>
-        <div className={layout.sectionImgReverse}>
-          <img src={ card } alt="card" className={`mt-5`}/>
+        <div className={layout.sectionImg}>
+          <img src={ card } alt="card" className='w-[100%] h-[100%]'/>
         </div>
         
       </section>
