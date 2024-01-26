@@ -14,8 +14,9 @@ const CardDeal = () => (
         <div className={layout.sectionImgReverse}>
           <img src={ card } alt="card" className={`mt-5`}/>
         </div>
-
+        
       </section>
+      
   
 )
 
